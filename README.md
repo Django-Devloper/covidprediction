@@ -12,5 +12,6 @@ pip install -r requirements.txt
 
 streamlit run app.py 
 
-
 if you want to retain the model you may need GPU or train on colab just need to run annmodeltrainer.py 
+
+live on streamlit : https://covidprediction-mfgvzjqqxhf6kajswjg65z.streamlit.app/
